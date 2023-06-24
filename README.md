@@ -9,6 +9,9 @@
 
 Пока что используется бинарная классификация будет ли цена выше через n недель или нет, но будут добавлены и другие алгоритмы, которые будут работать на этих фичах
 
+Тренировка Colab: https://drive.google.com/file/d/1rEWTcWv9TqzfF7sWJ2HHRNibH63oDoOG/view?usp=share_link
+
+Main.ipynb Colab: https://drive.google.com/file/d/1QDT1N985l8fuIcw0JXsYyIGXvQ2EKTqR/view?usp=share_link
 
 Файлы:
 - tachki.tar.gz содержит данные задачи и веса модели
