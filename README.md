@@ -20,3 +20,6 @@ Main.ipynb Colab: https://drive.google.com/file/d/1QDT1N985l8fuIcw0JXsYyIGXvQ2EK
 - **main.ipynb** inference модели, но тоже будут доработки
 - **valid** Папка, в которой приведен код для большой валидации моделей
 - **web** UI интерфейс, с помощью которого менеджер сможет легко работать с моделью
+
+
+Презентация: https://docs.google.com/presentation/d/1vYiA1qGQyunuWScb1JuP1eTj-5nDfTUed0QrHMS5gwg/edit?usp=share_link
