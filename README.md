@@ -4,7 +4,7 @@
 
 Тренировка Colab: https://drive.google.com/file/d/1hDxQJEUXBJdHmKcgf9D5ZIZIIQ-b3Qw2/view?usp=share_link
 
-Main.ipynb Colab: https://drive.google.com/file/d/1QDT1N985l8fuIcw0JXsYyIGXvQ2EKTqR/view?usp=share_link
+Main.ipynb Colab: https://drive.google.com/file/d/1Wrnkc5bJoKkaL6aVYiJjY2OBBD-zHRMu/view?usp=share_link
 
 Файлы:
 - **tachki.tar.gz** содержит данные задачи и веса модели
