@@ -16,4 +16,5 @@ Main.ipynb Colab: https://drive.google.com/file/d/1QDT1N985l8fuIcw0JXsYyIGXvQ2EK
 
 
 Презентация: https://docs.google.com/presentation/d/1vYiA1qGQyunuWScb1JuP1eTj-5nDfTUed0QrHMS5gwg/edit?usp=share_link
+
 Скринкаст работы веб интерфейса: https://drive.google.com/file/d/1j-MyvH-Y0Hz_Bm-2vjuV09VnDZxNAncp/view?usp=share_link
