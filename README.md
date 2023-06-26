@@ -13,9 +13,9 @@
 
 
 
-Результат закупки на тестовой выборке:
-Было:
-Стало:
+Результат закупки на тестовой выборке:\n
+Было:\n
+Стало:\n
 Экономия: 3.3%
 
 ![alt text](https://github.com/kdimon15/hack_ekb/blob/main/photos/train.png?raw=true)
