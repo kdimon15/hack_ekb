@@ -15,22 +15,22 @@
 
 Результат закупки на тестовой выборке:
 
-Было: **14541790**
-
-Стало: **13836400**
-
-Экономия: **4.85%**
-
-![alt text](https://github.com/kdimon15/hack_ekb/blob/main/photos/test.png?raw=true)
-
-
-
-Результат закупки на тренировочной выборке:
-
 Было: **1239000**
 
 Стало: **1198600**
 
 Экономия: **3.3%**
+
+![alt text](https://github.com/kdimon15/hack_ekb/blob/main/photos/test.png?raw=true)
+
+
+
+Результат закупки на тестовой выборке:
+
+Было: **14541790**
+
+Стало: **13836400**
+
+Экономия: **4.85%**
 
 ![alt text](https://github.com/kdimon15/hack_ekb/blob/main/photos/train.png?raw=true)
