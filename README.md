@@ -18,4 +18,4 @@
 Стало:
 Экономия: 3.3%
 
-![alt text](https://github.com/kdimon15/hack_ekb/blob/master/photos/image.jpg?raw=true)
+![alt text](https://github.com/kdimon15/hack_ekb/blob/main/photos/train.png?raw=true)
